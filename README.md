@@ -6,7 +6,7 @@ Nama: Asa Saila Rahma
 
 NIM: 202310370311201
 
-Mata Kuliah: Penalaran Komputer
+Mata Kuliah: Penalaran Komputer A
 
 Topik: Case-Based Reasoning pada Putusan Pengadilan
 
