@@ -47,23 +47,41 @@ Metode utama yang digunakan dalam project ini adalah:
 Struktur folder project ini adalah sebagai berikut:
 
 cbr-putusan-penganiayaan/
+
 │
+
 ├── data/
+
 │   ├── raw/
+
 │   ├── text/
+
 │   ├── processed/
+
 │   ├── eval/
+
 │   └── results/
+
 │
+
 ├── notebooks/
+
 │   ├── 01_build_case_base.ipynb
+
 │   ├── 02_case_representation.ipynb
+
 │   ├── 03_case_retrieval.ipynb
+
 │   ├── 04_solution_reuse.ipynb
+
 │   └── 05_model_evaluation.ipynb
+
 │
+
 ├── README.md
+
 └── requirements.txt
+
 
 ## Penjelasan Folder
 
