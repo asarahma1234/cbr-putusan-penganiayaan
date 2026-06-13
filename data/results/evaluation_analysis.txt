@@ -1,0 +1,23 @@
+Analisis Hasil Evaluasi
+
+1. Evaluasi Retrieval
+Sistem retrieval menggunakan metode TF-IDF dan cosine similarity. Berdasarkan 6 query evaluasi, diperoleh:
+- Accuracy@1: 1.0000
+- Accuracy@3: 1.0000
+- Accuracy@5: 1.0000
+- Precision@5: 0.2000
+- Recall@5: 1.0000
+- F1@5: 0.3333
+- MRR: 1.0000
+
+Nilai tersebut menunjukkan kemampuan sistem dalam menemukan kembali kasus ground truth pada daftar top-k hasil retrieval.
+
+2. Evaluasi Prediksi Solusi
+Prediksi solusi dilakukan dengan mengambil label amar dari top-5 kasus termirip menggunakan majority vote. Berdasarkan 6 query evaluasi, diperoleh:
+- Accuracy: 1.0000
+- Precision Macro: 1.0000
+- Recall Macro: 1.0000
+- F1 Macro: 1.0000
+
+3. Kesimpulan
+Sistem CBR berhasil membangun case base dari 30 putusan, merepresentasikan kasus ke dalam bentuk fitur teks, melakukan retrieval kasus menggunakan TF-IDF dan cosine similarity, menggunakan kembali solusi dari kasus lama, serta mengevaluasi hasil retrieval dan prediksi dengan metrik yang terukur.

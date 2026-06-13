@@ -1,0 +1,2 @@
+jumlah_pdf_raw,jumlah_txt,folder_pdf,folder_text,cleaning_log
+30,30,/content/cbr-putusan-penganiayaan/data/raw,/content/cbr-putusan-penganiayaan/data/text,/content/cbr-putusan-penganiayaan/data/processed/cleaning_log.csv

@@ -1,0 +1,2 @@
+jumlah_case,jumlah_query_uji,metode_vectorization,metode_similarity,train_test_split,top5_accuracy_awal,output_queries_json,output_retrieval_results,output_vectorizer,output_tfidf_matrix
+30,6,TF-IDF,Cosine Similarity,80:20,1.0,/content/cbr-putusan-penganiayaan/data/eval/queries.json,/content/cbr-putusan-penganiayaan/data/results/retrieval_results.csv,/content/cbr-putusan-penganiayaan/data/processed/tfidf_vectorizer.pkl,/content/cbr-putusan-penganiayaan/data/processed/tfidf_matrix.npz

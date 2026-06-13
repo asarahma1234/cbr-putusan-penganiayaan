@@ -1,0 +1,7 @@
+query_id,ground_truth_case_id,ground_truth_nomor_perkara,actual_label,predicted_label,is_correct,recommended_solution_from_case_id,recommended_solution_from_nomor_perkara,top_5_case_ids,top_5_similarity_scores
+query_001,case_028,803/Pid.B/2024/PN Rap,pidana_penjara,pidana_penjara,True,case_028,803/Pid.B/2024/PN Rap,"case_028, case_027, case_016, case_020, case_021","0.950426, 0.101912, 0.080085, 0.072508, 0.066469"
+query_002,case_016,510/Pid.B/2025/PN Rap,pidana_penjara,pidana_penjara,True,case_016,510/Pid.B/2025/PN Rap,"case_016, case_015, case_009, case_026, case_006","0.938313, 0.113305, 0.090625, 0.089413, 0.08833"
+query_003,case_024,515/Pid.B/2024/PN Rap,pidana_penjara,pidana_penjara,True,case_024,515/Pid.B/2024/PN Rap,"case_024, case_012, case_009, case_008, case_007","0.96597, 0.099202, 0.091698, 0.091563, 0.084045"
+query_004,case_018,550/Pid.B/2025/PN Rap,pidana_penjara,pidana_penjara,True,case_018,550/Pid.B/2025/PN Rap,"case_018, case_021, case_014, case_016, case_020","0.93933, 0.164208, 0.083221, 0.082682, 0.078449"
+query_005,case_009,180/Pid.B/2025/PN Rap,pidana_penjara,pidana_penjara,True,case_009,180/Pid.B/2025/PN Rap,"case_009, case_004, case_008, case_024, case_030","0.938723, 0.121505, 0.102818, 0.099849, 0.09742"
+query_006,case_010,216/Pid.B/2025/PN Rap,pidana_penjara,pidana_penjara,True,case_010,216/Pid.B/2025/PN Rap,"case_010, case_015, case_023, case_019, case_022","0.93116, 0.092218, 0.080853, 0.07574, 0.073086"

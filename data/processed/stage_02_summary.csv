@@ -1,0 +1,2 @@
+jumlah_case,jumlah_kolom,jumlah_valid_metadata,jumlah_perlu_cek,output_cases_csv,output_cases_json,output_quality_report
+30,12,30,0,/content/cbr-putusan-penganiayaan/data/processed/cases.csv,/content/cbr-putusan-penganiayaan/data/processed/cases.json,/content/cbr-putusan-penganiayaan/data/processed/metadata_quality_report.csv

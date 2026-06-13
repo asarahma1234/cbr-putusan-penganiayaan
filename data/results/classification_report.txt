@@ -1,0 +1,7 @@
+                precision    recall  f1-score   support
+
+pidana_penjara       1.00      1.00      1.00         6
+
+      accuracy                           1.00         6
+     macro avg       1.00      1.00      1.00         6
+  weighted avg       1.00      1.00      1.00         6

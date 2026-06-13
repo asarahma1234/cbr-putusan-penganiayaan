@@ -1,0 +1,1 @@
+pandasnumpyscikit-learnscipyjoblibtqdmopenpyxlpymupdf

@@ -1,0 +1,2 @@
+jumlah_case_base,jumlah_query_demo,retrieval_method,reuse_method_1,reuse_method_2,reuse_method_3,output_predictions,output_prediction_details,output_case_solutions
+30,5,TF-IDF + Cosine Similarity,Top-1 recommended solution from most similar case,Majority vote for amar label,Weighted similarity for sentence duration estimation,/content/cbr-putusan-penganiayaan/data/results/predictions.csv,/content/cbr-putusan-penganiayaan/data/results/prediction_details.csv,/content/cbr-putusan-penganiayaan/data/processed/case_solutions.json
